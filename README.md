@@ -1,8 +1,8 @@
-<img src="images/lighting.gif" alt="Loading" height="250px" width="100%"/>
+<!-- <img src="images/lighting.gif" alt="Loading" height="250px" width="100%"/>
 <h2 align="center">10+ Experience | Programmer | Electrical Engineer</h2>
-<hr/><br/>
+<hr/><br/> -->
 <h1 align="center">Hi there <img src="images/hi.gif" alt="Loading" height="35px" width="35px"/></h1>
-
+<!--
 ##### About me :sunglasses:
 
 ---
@@ -66,3 +66,4 @@ I hereby declare and certify that all of the above information contained in this
 <p align="center"><a style="text-decoration:none;" href=""><b>Profile views</b></a><br/><img alt="56789" src="https://profile-counter.glitch.me/Rafael-Batista-Dev/count.svg"></p>
 <img src="images/wave.svg" alt="Loading" width="100%"/>
 </details>
+-->
